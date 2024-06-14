@@ -12,4 +12,4 @@
 
 [![Linkdinn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://ww.linkdin.com/in/thiagosanches07)
 
-![Sanchessky GitHub stats](https://guthub-readme-stats.vercel.app/api?username=sanches&show_icons=true&the,e=radical)
+![Sanchessky GitHub stats](https://guthub-readme-stats.vercel.app/api?username=devsanchessky&show_icons=true&the,e=radical)

@@ -1,6 +1,6 @@
 ## Hi there 
 
-### Olá! Eu sou Thiago Sanches 😐,  e estou iniciano uma nova jornada em T.T 💻
+### Olá! Eu sou Thiago Sanches 😐,  sou iniciante na área de T.T 💻
 
 💰 #Ajude o projeto Upgrade no PC para realização de conteúdo no YOUTUBE
 

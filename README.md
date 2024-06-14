@@ -5,7 +5,7 @@
 💰 #Ajude o projeto Upgrade no PC para realização de conteúdo no YOUTUBE
 
 💰 #Chave PIX do projeto:
-## 6ba1c342-ccdd-4896-a1d3-d50cf0925
+6ba1c342-ccdd-4896-a1d3-d50cf0925
 
 🚀 #Minhas redes sociais
 

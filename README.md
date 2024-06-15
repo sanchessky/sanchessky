@@ -17,7 +17,9 @@
 
 ![Sanchessky GitHub stats](https://github-readme-stats.vercel.app/api?username=sanchessky&show_icons=true&theme=dark)
 
-![Snake animation]
+![Snake animation](https://github.com/sanchessky/sanchessky/blob/output/github-contribution-grid-snake.svg)
+
+[![readme](https://github-readme-stats.vercel.app/api?username=sanchessky&repo=sanchessky&thene=react)](https://github.com/sanchessky/sanchessky)
 
 ## Tecnologias que uso no meu dia 
 

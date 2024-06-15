@@ -17,6 +17,8 @@
 
 ![Sanchessky GitHub stats](https://github-readme-stats.vercel.app/api?username=sanchessky&show_icons=true&theme=dark)
 
+![Snake animation](https://github.com/sanchessky)
+
 ## Tecnologias que uso no meu dia 
 
 ![Windowns](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)

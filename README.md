@@ -1,5 +1,5 @@
 
-### Olá! Eu sou Thiago Sanches 😐,  sou iniciante na área de T.T 💻
+### Olá! Eu sou Thiago Sanches 😐,  sou iniciante na área de T.I 💻
 
 💰 #Ajude o projeto Upgrade no PC para realização de conteúdo no YOUTUBE
 
@@ -9,7 +9,7 @@
 🚀 #Minhas redes sociais
 
 
-[![Linkdinn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://ww.linkdin.com/in/thiagosanches07)
+[![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkdin.com/in/thiagosanches07)
 
 📊Estatísticas do meu GitHub📊
 

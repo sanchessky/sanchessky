@@ -9,7 +9,7 @@
 🚀 #Minhas redes sociais
 
 
-[![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkdin.com/in/thiagosanches07)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagosanches07)
 
 📊Estatísticas do meu GitHub📊
 

@@ -1,15 +1,21 @@
 # Olá! Eu sou o Thiago Sanches 👨‍💻
 
-Sou iniciante na área de **Tecnologia da Informação** e estou aprendendo e evoluindo um passo de cada vez. Compartilho conteúdos e minha jornada no YouTube e outras redes sociais.
+Sou **Técnico em Informática**, formado pelo **Senac São Paulo**, e atualmente
+estudante de **Tecnologia em Redes de Computadores** pela Universidade Cruzeiro do Sul EAD.
+
+Tenho interesse e experiência em **Suporte Técnico, Redes de Computadores,
+Infraestrutura de TI e Administração de Servidores**. Estou constantemente
+buscando novos conhecimentos e desenvolvendo minhas habilidades para evoluir
+profissionalmente na área de Tecnologia da Informação
 
 ---
 
-## 🎯 Objetivo do Projeto
+## 🎯 Objetivo
 
-💡 **Upgrade no PC para criação de conteúdo no YouTube.**
+Meu objetivo é crescer profissionalmente na área de **Redes e Infraestrutura de TI**,
+adquirindo experiência, desenvolvendo novas competências e contribuindo para a
+solução de problemas tecnológicos.
 
-Se quiser apoiar este projeto, qualquer ajuda é bem-vinda! 🙏  
-📌 **Chave PIX:** `6ba1c342-ccdd-4896-a1d3-d50cf0925`
 
 ---
 
